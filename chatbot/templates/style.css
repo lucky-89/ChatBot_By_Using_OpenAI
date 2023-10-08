@@ -1,0 +1,8 @@
+.chat{
+    width: 200px;
+    height: auto;
+    background-color: brown;
+    color: blue;
+    align-items: center;
+    border-color: blueviolet;
+}
